@@ -5,8 +5,6 @@
 
 /**
  * A generic 2-dimensional array class
- * @author Jon Beck
- * @version 8 September 2017
  */
 template <class Object>
 class Matrix
